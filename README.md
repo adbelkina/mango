@@ -1,0 +1,4 @@
+mango
+=====
+
+my first repository
